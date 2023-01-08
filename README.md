@@ -2,7 +2,7 @@
 
 Using the MVC Pattern
 # Features
-  - Category model
-  - Post model
+  - Category
+  - Post
   
   
